@@ -72,7 +72,7 @@
     "markdown-it-emoji": "2.0.2",
     "markdown-it-for-inline": "0.1.1",
     "markdownlint-cli2-formatter-json": "0.0.7",
-    "markdownlint-cli2-formatter-junit": "0.0.5",
+    "markdownlint-cli2-formatter-junit": "0.0.7",
     "markdownlint-cli2-formatter-pretty": "0.0.5",
     "markdownlint-cli2-formatter-summarize": "0.0.5",
     "markdownlint-rule-titlecase": "0.1.0",
