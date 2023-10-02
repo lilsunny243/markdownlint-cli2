@@ -63,7 +63,7 @@
     "@iktakahiro/markdown-it-katex": "4.0.1",
     "ava": "5.3.1",
     "c8": "8.0.1",
-    "cpy": "9.0.1",
+    "cpy": "10.1.0",
     "del": "7.0.0",
     "eslint": "8.50.0",
     "eslint-plugin-n": "16.0.1",
